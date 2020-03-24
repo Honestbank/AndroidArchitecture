@@ -4,3 +4,4 @@ This project is to demonstrate the Android Architecture with Pattern MVVM-BR whi
 # For more infomation
 https://medium.com/ta-tonthongkam/android-code-architecture-with-mix-pattern-ffe396dbab6f
 
+😂
