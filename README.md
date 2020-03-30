@@ -5,3 +5,4 @@ This project is to demonstrate the __Android Architecture__ with Pattern MVVM-BR
 https://medium.com/ta-tonthongkam/android-code-architecture-with-mix-pattern-ffe396dbab6f
 
 😂
+TEST
